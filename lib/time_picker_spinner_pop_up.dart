@@ -387,7 +387,7 @@ class _TimePickerSpinnerPopUpState extends State<TimePickerSpinnerPopUp>
                 ),
               ),
               const SizedBox(
-                height: 10,
+                height: 24,
               ),
             ],
           ),
